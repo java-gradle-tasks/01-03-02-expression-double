@@ -1,8 +1,12 @@
 # 01-03-02-expression-double
 ## Regular triangle 
 Írjon programot az egyenlő oldalú háromszög területének meghatározására!
-A képet
+A képlet a következő:
+
+
 ![kép](https://github.com/java-gradle-tasks/01-03-02-expression-double-regular-triangle/blob/main/haromszog.png)
+
+
 Minta a feladat megoldásához!
 ```
 Szabalyos haromszog teruletenek meghatarozsa!
