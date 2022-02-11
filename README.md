@@ -12,6 +12,6 @@ Minta a feladat megoldásához!
 Szabalyos haromszog teruletenek meghatarozsa!
 Adja meg a haromszog oldalanak hosszat:25
 A terulet nagysaga:270.6329386826371
-A kerektett terulet erteke:270.63
+A kerektett terulet erteke:270.63<újsor>
 ```
 
