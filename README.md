@@ -1,2 +1,2 @@
-# 00-00-00-empty-gradle-task-
-# Projekt név
+# 01-03-02-expression-double
+## Electrical resistance
