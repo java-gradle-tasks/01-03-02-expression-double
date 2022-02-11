@@ -20,9 +20,9 @@ public class TestPrintTaskSolutionOneDigit {
 
       InputStream stdin = System.in;
 
-      int numberOfStudent=10;
+      int side=10;
 
-      String input=String.valueOf(numberOfStudent)+newLine;
+      String input=String.valueOf(side)+newLine;
       System.setIn(new ByteArrayInputStream(input.getBytes()));
 
       ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();

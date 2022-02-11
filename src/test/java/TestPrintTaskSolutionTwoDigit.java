@@ -20,9 +20,9 @@ public class TestPrintTaskSolutionTwoDigit {
 
       InputStream stdin = System.in;
 
-      int numberOfStudent=25;
+      int side=25;
 
-      String input=String.valueOf(numberOfStudent)+newLine;
+      String input=String.valueOf(side)+newLine;
       System.setIn(new ByteArrayInputStream(input.getBytes()));
 
       ByteArrayOutputStream byteArrayOutputStream = new ByteArrayOutputStream();

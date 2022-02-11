@@ -42,6 +42,6 @@ public class TestOneDigitRoundedArea {
 
       boolean found=actual.contains(expected);
 
-      Assertions.assertTrue(found,"Hianyzik az input a kodbol!");
+      Assertions.assertTrue(found,"Az eredmenyt nem jol hatarozta meg!");
    }
 }
