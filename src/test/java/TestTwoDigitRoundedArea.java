@@ -34,7 +34,7 @@ import java.io.PrintStream;
          System.setIn(stdin);
          System.setOut(stdout);
 
-         String expected="A kerektett terulet erteke:97.43"+newLine;
+         String expected="A kerekitett terulet erteke:97.43"+newLine;
          String actual=byteArrayOutputStream.toString();
 
          System.out.println("Elvart:"+newLine+expected);

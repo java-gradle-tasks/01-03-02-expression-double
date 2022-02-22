@@ -34,7 +34,7 @@ public class TestOneDigitRoundedArea {
       System.setIn(stdin);
       System.setOut(stdout);
 
-      String expected="A kerektett terulet erteke:43.3"+newLine;
+      String expected="A kerekitett terulet erteke:43.3"+newLine;
       String actual=byteArrayOutputStream.toString();
 
       System.out.println("Elvart:"+newLine+expected);

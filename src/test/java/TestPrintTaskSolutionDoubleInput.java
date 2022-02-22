@@ -43,7 +43,7 @@ public class TestPrintTaskSolutionDoubleInput {
 
       String expected="Szabalyos haromszog teruletenek meghatarozsa!"+newLine;
       expected+="Adja meg a haromszog oldalanak hosszat:A terulet nagysaga:104.0313016296057"+newLine;
-      expected+="A kerektett terulet erteke:104.03"+newLine;
+      expected+="A kerekitett terulet erteke:104.03"+newLine;
 
       String actual=byteArrayOutputStream.toString();
 
